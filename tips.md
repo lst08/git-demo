@@ -3,4 +3,4 @@
 3.git add (./xxx.cpp ...)                      //在该文件夹下将文件后加入暂存区（相当于等待修改）
 4.git log                                      //查看版本迭代
 5.git commit -m "备注...."                     //提交到仓库里（相当于完成修改）
-6.git checkout HEAD xxx.cpp                    //回滚到上一版本
+6.git checkout HEAD xxx.cpp                    //回滚到已保存的最新版本
