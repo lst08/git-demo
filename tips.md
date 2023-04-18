@@ -4,3 +4,6 @@
 4.git log                                      //查看版本迭代
 5.git commit -m "备注...."                     //提交到仓库里（相当于完成修改）
 6.git checkout HEAD xxx.cpp                    //回滚到已保存的最新版本
+7.git remote add origin 远程仓库地址            //关联本地仓库与远程仓库
+8.git push (-u) origin master                  //将本地仓库文件push上远程仓库,当远程仓库有东西后可以去掉 -u
+9.git clone 远程仓库地址                        //下载别人项目
